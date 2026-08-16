@@ -1,0 +1,6 @@
+{
+  "name": "PitchInNYC",
+  "description": "Unified platform to discover, post, and track New York City volunteer opportunities across non-profits, Idealist, Eventbrite, and Point App with AI volunteer credit verification.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
